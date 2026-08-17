@@ -13,7 +13,7 @@ frozenlist==1.3.3
 huggingface-hub==0.14.1
 importlib-resources==5.12.0
 
-sqlparse==0.4.4
+sqlparse==0.6.0
 # kiwisolver==1.4.4
 # matplotlib==3.7.1
 multidict==6.0.4
